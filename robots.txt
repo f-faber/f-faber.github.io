@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://f-faber.github.io/sitemap.xml
